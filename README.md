@@ -1,7 +1,7 @@
 # Mini cam scanner
-An algorithms that performs input image denoising using mean kernel filtering and adaptive thresholding.
+An algorithm that performs input image denoising using mean kernel filters and adaptive thresholding.
 
-The executable named 'scan' has been provided. To use, run the follwing:
+The executable named 'scan' has been provided. To use, run the following:
 
 >./scan pathtonoisyimage pathtocleanimage radius epsilon
 
