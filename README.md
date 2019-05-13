@@ -7,4 +7,4 @@ The executable named 'scan' has been provided. To use, run the following:
 
 Here, radius is the kernel size applied for filtering, and epsilon is the round-off value for precision and errors. 
 
-The repository efficientCamScan under the same account gives a much faster algorithms at the expense of little quality. efficientCamScan uses median filters and has an accelerated runtime. 
+The repository efficientCamScan under the same account uses a much faster algorithm at negligible expense in quality. efficientCamScan uses median filters and has an accelerated runtime. 
